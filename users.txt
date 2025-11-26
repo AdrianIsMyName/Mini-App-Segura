@@ -1,0 +1,4 @@
+Hacniel $argon2id$v=19$m=19456,t=2,p=1$ZTgxZDlkOWYzNjg0NzFiNzNkNTI3OTA4NzQ3MTViNTQ$gSp5/cx4Qn9SoEjY00h3uGno2YYXRYYJgYYyR2thR/U teacher 0
+Adrian $argon2id$v=19$m=19456,t=2,p=1$ZTgxZDlkOWYzNjg0NzFiNzNkNTI3OTA4NzQ3MTViNTQ$0ybOY1EQpnQhLc3yIN9nISIlFlIj94hGnmn5yCTyBgc student 1
+Miguel $argon2id$v=19$m=19456,t=2,p=1$ZTgxZDlkOWYzNjg0NzFiNzNkNTI3OTA4NzQ3MTViNTQ$GdRzh02VzzZh4gApl2pfwSp2DZXeV2KZGqkk3HTNAv4 student 2
+Andrea $argon2id$v=19$m=19456,t=2,p=1$ZTgxZDlkOWYzNjg0NzFiNzNkNTI3OTA4NzQ3MTViNTQ$MWA9+dzOqczrtACwxfbxgLlEoVl8R90as0BBKENqVtA student 3
